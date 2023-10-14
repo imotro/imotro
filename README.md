@@ -19,4 +19,6 @@ Mostly interested in networking and data manipulation
 No matter how much experience i have with either, i will always confuse string declaration in Java and C
 
 ### projects
-- XML parser: turn XML into an object (node.js)
+- [XMLParser](https://github.com/imotro/xml-parser): turn XML into an object (node.js)
+- [HTMLer](https://github.com/imotro/HTMLer): combine files in a webpage zip into a single HTML file
+- 
