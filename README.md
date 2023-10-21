@@ -1,6 +1,6 @@
 ## Imotro
 
-A person interested about the way computers work
+A person interested about the way computers work<br>
 Mostly interested in networking and data manipulation
 <br>
 ### skils
