@@ -3,7 +3,7 @@
 A person interested about the way computers work<br>
 Mostly interested in networking and data manipulation
 <br>
-### skils
+### skills
 - Javascript - 3 Years
 - Python - 2 Years
 - PHP - 2 Years
@@ -16,7 +16,7 @@ Mostly interested in networking and data manipulation
 - Git - 1 Year
 - Java - 2 Years
 
-No matter how much experience i have with either, i will always confuse string declaration in Java and C
+No matter how much experience i have with any of them, stack overflow will be my most visited site
 
 ### projects
 - [XMLParser](https://github.com/imotro/xml-parser): turn XML into an object (node.js)
