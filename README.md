@@ -56,4 +56,4 @@ check out @bmboi for more cool things
 - [REPLIT](https://replit.com/@merkb) im still using this because free and easy to set up VMs, i literally hate everything else about it.
 - [CODEPEN](https://codepen.io/imotro) throwaway projects
 
-  not giving you my socials. im not that desprate lol
+thats literally it. have fun CIA.
